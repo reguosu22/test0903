@@ -37,5 +37,6 @@ class MainActivity : AppCompatActivity() {
             intent = Intent(this@MainActivity, MapsActivity::class.java)
             startActivity(intent)
         }
+
     }
 }
